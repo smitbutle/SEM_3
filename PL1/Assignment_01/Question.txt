@@ -1,0 +1,26 @@
+Programming Laboratory-I
+Assignment No-1
+ (Basics of object oriented programming) Due date-5/9/2022
+1. Create an Employee class to enter and display information of employee such as EmpID, 
+Name, Address, Designation and Salary of last five years and calculate average salary
+(create five objects to enter and display data). 
+2. Write a program using class to accept 5 numbers from user and display largest, second 
+largest and smallest, second smallest and middle number among five.
+3. Write a program to read 3 values of a, b and c and calculate value of X as
+X= a*b – c/d
+Where d=a+b
+4. Write a CPP Program to Check given number is Super Prime number or not using 
+function.( Super prime number is one whose all digits are prime and number is also 
+prime)
+5. Write a CPP Program to Find Frequency (count) of vowels and consonants (character 
+wise) in below String.
+“CPP is easy and great and Python is also great”
+6. Write a program in CPP to swap 2 numbers without using any temporary variable.
+7. Write a Menu driven CPP Program to perform below operations (use saperate functions 
+for every operation)
+a. Binary to Octal
+b. Octal to Binary
+c. Binary to Hexadecimal
+d. Hexadecimal to Binary
+e. Octal to Hexadecimal
+f. Hexadecimal to Octal
